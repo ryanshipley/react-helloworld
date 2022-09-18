@@ -5,6 +5,13 @@ function Board(props){
     <div className="board">
         <Square/>
         <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
     </div>
 )};
 
