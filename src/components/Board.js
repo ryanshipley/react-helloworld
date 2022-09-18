@@ -1,8 +1,10 @@
-function Board(){
-   return(
+import Square from "./Square";
 
-    <div>
-        the board!
+function Board(props){
+   return(
+    <div className="board">
+        <Square/>
+        <Square/>
     </div>
 )};
 
