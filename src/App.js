@@ -8,6 +8,7 @@ function App() {
   <div>
     <Header/>
     <Player/>
+    <Player/>
     </div>);
  }
 
