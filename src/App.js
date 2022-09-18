@@ -7,8 +7,8 @@ function App() {
   return (
   <div>
     <Header/>
-    <Player/>
-    <Player/>
+    <Player whichPlayer='x'/>
+    <Player whichPlayer='o'/>
     </div>);
  }
 
