@@ -1,8 +1,9 @@
 import logo from './logo.svg';
+import Header from "./components/Header";
 import './App.css';
 
 function App() {
-  return (<h1>React Tac Toe</h1>);
+  return (<Header/>);
  }
 
 export default App;
